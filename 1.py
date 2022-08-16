@@ -12,5 +12,3 @@ def dfs(start):
             s.pop()
 
 dfs(1)
-
-/.??? 창녀새끼야
