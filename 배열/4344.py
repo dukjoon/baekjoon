@@ -15,5 +15,5 @@ for _ in range(a):
     #         x.append
         
     result = (len(Lst) / len(L)) * 100
-    
-    print(round(result,3),'%',sep='')
+
+    print('%.3f'% result+'%')
